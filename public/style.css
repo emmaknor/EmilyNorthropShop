@@ -1,0 +1,179 @@
+#app {
+  padding: 30px 70px;
+}
+
+/* header */
+.logo {
+  height: 46px;
+  width: 46px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.modal-title {
+  font-family: como,sans-serif;
+}
+
+.cart-text {
+  font-family: como,sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 13px;
+  float: right;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+table {
+  font-family: como,sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.remove {
+  float: right;
+}
+
+.qty {
+  float: right;
+}
+
+.decrement, .increment {
+  margin: 5px;
+  cursor: pointer;
+}
+
+span.decrement:hover, span.increment:hover {
+  color: antiquewhite;
+}
+
+.total-price {
+  float: right;
+  margin: 10px 0;
+}
+
+.purchase {
+  margin-top: 60px;
+}
+
+.purchase-btn {
+  margin-left: 180px;
+  color: #6c757d;
+  border-color: #6c757d;
+  display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.ov {
+  padding-top: 45px;
+  font-family: como,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.title, .description, .credit {
+  padding-top: 15px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 24px;
+  padding-bottom: 30px;
+}
+
+.price {
+  font-size: 20px;
+}
+
+.proceeds {
+  font-size: 13px;
+  padding-bottom: 20px;
+}
+
+.description, .credit {
+  font-size: 15px;
+}
+.credit, .add-to-cart {
+  padding-bottom: 50px;
+}
+
+.about {
+  margin-top: 50px;
+  padding: 10px;
+  outline: 2px solid black;
+}
+
+.about-title {
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.link {
+  margin-top: 10px;
+}
+
+#photo {
+  width: 500px;
+  padding-right: 10%;
+  padding-left: 0%;
+}
+
+.imageContainer {
+  height: 580px;
+  width: 410px;
+}
+
+.selected {
+  height: 560px;
+  width: 380px;
+  padding-left: 10%;
+  left: -20px;
+  cursor: zoom-in;
+}
+
+.card-container {
+  height: 240px;
+  width: 380px;
+  padding-top: 10px;
+}
+
+.cards {
+  height: 120px;
+  width: 90px;
+  margin: 8px 17px;
+  cursor: pointer;
+}
+
+
+.socials {
+  display: flex;
+}
+
+.fb, .ig {
+  margin-right: 18px;
+}
