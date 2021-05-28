@@ -3,7 +3,7 @@
   > This repo contains an JavaScript e-commerce web application built with React, React-Bootstrap, Node.js, Express, and PostgreSQL.
 
 ## Summary ##
-  > This front-end application provides a means by which users can purchase a deck of affirmation cards. These cards are original designs by graphic designer, Emily Northrop accesible through her website: http://www.emilynorthrop.com/. All of the proceeds are donated to The Trans Housing Coalation.
+  > This front-end application provides a means by which users can purchase a deck of affirmation cards. These cards are original designs by graphic designer, Emily Northrop. All of the proceeds are donated to The Trans Housing Coalation.
 
 ## Problem ##
   > The client needs a means to sell merchandise and desired a way for her work to contribute to an organiztion which supports developing a more equitable community.
@@ -25,8 +25,7 @@
   4. Run npm run build in order to transpile the code.
   5. Use npm run start to start the server.
   6. Navigate to localhost:3000 in your browser.
-  7. Shop away!
 
 
 ## Where to look next ##
-  > Feel free to use this repo to see the shop in action from your local machine. I also encourage you to take a look into The Trans Housing Coalation and consider making a donation directly or preferably through the purchase of an Emily Northrop affirmation card deck.
+  > Feel free to use this repo to see the shop in action from your local machine or view the deployed application at https://en-shop.herokuapp.com/. I also encourage you to take a look into The Trans Housing Coalation and consider making a donation directly or preferably through the purchase of an Emily Northrop affirmation card deck.
