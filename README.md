@@ -19,7 +19,7 @@
  
 
 ## How to Get Started ##
-  1. Fork & clone this repo by running git clone https://github.com/emmaknor/hr-bld15-mvp.git
+  1. Fork & clone this repo by running git clone https://github.com/emmaknor/EmilyNorthropShop.git
      in your terminal.
   3. Run npm install.
   4. Run npm run build in order to transpile the code.
